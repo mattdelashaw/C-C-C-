@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-	/* my first program in C */
+	/* gcc hello.c
+	./a.out */
 	printf("Hello, World! \n");
 	
 	return 0;
