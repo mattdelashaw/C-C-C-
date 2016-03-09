@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-//comment
+//g++ hello.cpp
+//./a.out
 
 int main(){
 	cout << "Hello C++ \n";
